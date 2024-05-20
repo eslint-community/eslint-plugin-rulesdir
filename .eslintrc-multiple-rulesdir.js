@@ -26,6 +26,7 @@ module.exports = {
     'rulesdir/fake-rule': 'error',
     'rulesdir/another-fake-rule': 'error',
     'rulesdir/yet-another-fake-rule': 'error',
+    'rulesdir/a-fake-directory-rule': 'error',
   },
   plugins: [PACKAGE_NAME],
 };
