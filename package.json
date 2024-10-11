@@ -19,9 +19,12 @@
     "url": "https://github.com/eslint-community/eslint-plugin-rulesdir"
   },
   "devDependencies": {
-    "eslint": ">=3",
+    "eslint": ">=3.0.0",
     "eslint-config-airbnb-base": "^11.2.0",
     "eslint-plugin-import": "^2.6.1"
+  },
+  "peerDependencies": {
+    "eslint": ">=3.0.0"
   },
   "engines": {
     "node": ">=4.0.0"
