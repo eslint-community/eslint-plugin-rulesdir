@@ -18,6 +18,7 @@
     "type": "git",
     "url": "https://github.com/eslint-community/eslint-plugin-rulesdir"
   },
+  "funding": "https://opencollective.com/eslint",
   "devDependencies": {
     "eslint": ">=3.0.0",
     "eslint-config-airbnb-base": "^11.2.0",
