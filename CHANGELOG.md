@@ -6,4 +6,4 @@
 
 ## Previous versions
 
-See the [git history](https://github.com/not-an-aardvark/eslint-plugin-rulesdir).
+See the [git history](https://github.com/eslint-community/eslint-plugin-rulesdir).

@@ -63,4 +63,4 @@ All of the rules from your configured rules directory will be available. In this
 
 ## License
 
-[MIT](https://github.com/not-an-aardvark/eslint-plugin-rulesdir/blob/master/LICENSE.md)
+[MIT](https://github.com/eslint-community/eslint-plugin-rulesdir/blob/main/LICENSE.md)
